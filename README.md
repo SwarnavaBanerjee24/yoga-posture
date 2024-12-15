@@ -5,18 +5,15 @@ This project is a Streamlit-based real-time posture analysis application that us
 ---
 
 ## Table of Contents
-1. [Features](#features)
-2. [Technologies Used](#technologies-used)
-3. [How It Works](#how-it-works)
-4. [Setup Instructions](#setup-instructions)
-   - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
-   - [Run the Application](#run-the-application)
-5. [Code Overview](#code-overview)
-6. [Dataset (Optional)](#dataset-optional)
-7. [Future Enhancements](#future-enhancements)
-8. [Troubleshooting](#troubleshooting)
-9. [License](#license)
+1. [Features]
+2. [Technologies Used]
+3. [How It Works]
+4. [Setup Instructions]
+   - [Prerequisites]
+   - [Installation]
+   - [Run the Application]
+5. [Future Enhancements]
+6. [Troubleshooting]
 
 ---
 
@@ -68,9 +65,30 @@ This project is a Streamlit-based real-time posture analysis application that us
 - A device with an operational webcam
 
 ### Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/SwarnavaBanerjee24/yoga-posture
-2. Run the application
-```bash
-python app.py
+   ```
+### Run the application
+   ```bash
+   python app.py
+   ```
+
+---
+
+### Future Enhancements
+- Add more pose classifications and improve pose detection accuracy.
+- Incorporate pose-specific improvement suggestions.
+- Enable multi-person pose analysis.
+- Provide detailed analytics and progress tracking for users.
+- Integrate voice feedback for real-time corrections.
+- Allow customizable pose thresholds and personalized training routines.
+- Develop a mobile app version for broader accessibility.
+
+---
+
+### Troubleshooting
+- Camera Access Error: Ensure your webcam is properly connected and not in use by another application.
+- Performance Issues: Lower the resolution of the webcam feed or use a device with better processing capabilities.
+- Dependency Errors: Verify all required libraries are installed correctly using pip list.
+- Streamlit Not Starting: Check if the correct virtual environment is activated and ensure the streamlit package is installed.
