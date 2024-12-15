@@ -71,4 +71,6 @@ This project is a Streamlit-based real-time posture analysis application that us
 1. Clone the repository:
    ```bash
    git clone https://github.com/SwarnavaBanerjee24/yoga-posture
-  ```
+2. Run the application
+```bash
+python app.py
