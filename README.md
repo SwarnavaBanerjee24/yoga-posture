@@ -5,7 +5,7 @@ This project is a Streamlit-based real-time posture analysis application that us
 ---
 
 ## Table of Contents
-1. [Features][#features]
+1. [Features](#features)
 2. [Technologies Used]
 3. [How It Works]
 4. [Setup Instructions]
