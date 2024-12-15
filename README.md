@@ -9,9 +9,9 @@ This project is a Streamlit-based real-time posture analysis application that us
 2. [Technologies Used](#technologies-used)
 3. [How It Works](#how-it-works)
 4. [Setup Instructions](#setup-instruction)
-   - [Prerequisites]
-   - [Installation]
-   - [Run the Application]
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+   - [Run the Application](#run-the-application)
 5. [Future Enhancements](#future-enhancements)
 6. [Troubleshooting](#troubleshooting)
 
