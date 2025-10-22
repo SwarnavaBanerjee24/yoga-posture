@@ -1,6 +1,6 @@
 # Real-Time Posture Analysis
 
-This project is a Streamlit-based real-time posture analysis application that uses computer vision techniques to detect and analyze specific yoga and exercise poses. It leverages Mediapipe's pose estimation model and provides feedback on the correctness of poses while tracking the duration a pose is held.
+This project is a Streamlit-based, real-time posture analysis application that uses computer vision techniques to detect and analyze specific yoga and exercise poses. It leverages Mediapipe's pose estimation model and provides feedback on the correctness of poses while tracking the duration a pose is held.
 
 ---
 
